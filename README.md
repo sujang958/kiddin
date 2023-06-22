@@ -4,7 +4,7 @@
 
 ## Demo
 
-![Kiddin Demo](https://raw.githubusercontent.com/sujang958/kiddin/main/docs/kiddin_demo.mp4)
+![Kiddin Demo](https://raw.githubusercontent.com/sujang958/kiddin/main/docs/kiddin_demo.webp)
 
 ---
 _Made by sujang958_
